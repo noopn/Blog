@@ -13,4 +13,4 @@
 * [HTML5新增了哪些内容或API](https://github.com/songhua-river/Blog/issues/3) 
 
 ## 实战中的一些总结
-* [从XMLHttpRequest到XMLHttpRequest](https://github.com/songhua-river/Blog/issues/4) 
+* [从XMLHttpRequest到FileReader](https://github.com/songhua-river/Blog/issues/4) 
