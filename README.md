@@ -14,7 +14,8 @@
 * [input 和 textarea 的区别,忽略页面中的电话号码](https://github.com/songhua-river/Blog/issues/5) 
 * [左右布局左中右布局的几种方法](https://github.com/songhua-river/Blog/issues/6) 
 * [页面加载进度条的实现](https://github.com/songhua-river/Blog/issues/7) 
-* [BFC,IFC](https://github.com/songhua-river/Blog/issues/8) 
+* [BFC,IFC](https://github.com/songhua-river/Blog/issues/8)
+* [Promise 实现原理](https://github.com/songhua-river/Blog/issues/9)
 
 ## 实战中的一些总结
 * [从XMLHttpRequest到FileReader](https://github.com/songhua-river/Blog/issues/4) 
