@@ -16,7 +16,8 @@
 * [页面加载进度条的实现](https://github.com/songhua-river/Blog/issues/7) 
 * [BFC,IFC](https://github.com/songhua-river/Blog/issues/8)
 * [Promise 实现原理](https://github.com/songhua-river/Blog/issues/9)
-* [一些一面的问题](https://github.com/songhua-river/Blog/issues/11)
+* [一面的问题(一)](https://github.com/songhua-river/Blog/issues/11)
+* [一面的问题(二)](https://github.com/songhua-river/Blog/issues/13)
 * [MVC，MVP，MVVM](https://github.com/songhua-river/Blog/issues/12)
 
 ## 实战中的一些总结
