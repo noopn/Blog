@@ -20,6 +20,7 @@
 * [一面的问题(二)](https://github.com/songhua-river/Blog/issues/13)
 * [MVC，MVP，MVVM](https://github.com/songhua-river/Blog/issues/12)
 * [HTTP,TCP](https://github.com/songhua-river/Blog/issues/15)
+* [模块化](https://github.com/songhua-river/Blog/issues/16)
 
 ## 实战中的一些总结
 * [从XMLHttpRequest到FileReader](https://github.com/songhua-river/Blog/issues/4)
