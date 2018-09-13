@@ -18,6 +18,7 @@
 * [Promise 实现原理](https://github.com/songhua-river/Blog/issues/9)
 * [一面的问题(一)](https://github.com/songhua-river/Blog/issues/11)
 * [一面的问题(二)](https://github.com/songhua-river/Blog/issues/13)
+* [一面的问题(三)](https://github.com/songhua-river/Blog/issues/17)
 * [MVC，MVP，MVVM](https://github.com/songhua-river/Blog/issues/12)
 * [HTTP,TCP](https://github.com/songhua-river/Blog/issues/15)
 * [模块化](https://github.com/songhua-river/Blog/issues/16)
