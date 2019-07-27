@@ -6,7 +6,8 @@
 * [统计一个字符串中每个字母出现的个数](https://github.com/songhua-river/Blog/issues/1) 
 * [按指定长度给数组分组 chunk](https://github.com/songhua-river/Blog/issues/2)
 
-## 常见排序算法(https://github.com/songhua-river/Blog/issues/)
+## 常见排序算法
+* [排序](https://github.com/songhua-river/Blog/issues/)
 
 ## 知识点
 * [HTML5新增了哪些内容或API](https://github.com/songhua-river/Blog/issues/3) 
